@@ -1,0 +1,28 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "U7T9FA4VMW.kz.flyarystan",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      },
+      {
+        "appID": "U7T9FA4VMW.test.kz.flyarystan",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      },
+      {
+        "appID": "D77N5K4CDR.com.hititcs.flyarystan",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      }
+    ]
+  }
+}

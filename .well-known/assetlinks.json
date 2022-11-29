@@ -1,0 +1,17 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "kz.flyarystan",
+      "sha256_cert_fingerprints":
+      ["FB:E7:CD:41:96:A3:62:AF:23:F9:D1:9C:80:78:2D:A5:07:E4:D0:20:95:28:53:50:5A:3C:E7:83:B6:B2:E1:5A"]
+    }
+  }, {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "test.kz.flyarystan",
+      "sha256_cert_fingerprints":
+      ["FB:E7:CD:41:96:A3:62:AF:23:F9:D1:9C:80:78:2D:A5:07:E4:D0:20:95:28:53:50:5A:3C:E7:83:B6:B2:E1:5A"]
+    }
+  }]
